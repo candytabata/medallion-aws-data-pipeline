@@ -1,0 +1,10 @@
+faker
+boto3
+botocore
+aws-cdk-lib
+constructs
+aws-cdk.aws-glue-alpha
+great_expectations
+ipykernel
+fastparquet
+matplotlib
